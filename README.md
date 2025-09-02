@@ -20,9 +20,9 @@ The dashboard highlights insights on student performance across subjects, gender
 
 ## Tools Used
 
-~Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
+~ Microsoft Excel - Pivot Tables, Charts, Conditional Formatting
 
-~Dataset: Students Performance Dataset - Kaggle
+~ Dataset: Students Performance Dataset - Kaggle
 
 *Author: Deborah Akanni*
 
