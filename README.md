@@ -1,4 +1,4 @@
-# students-performance-dashboard
+# Students Performance Dashboard
  
 ## Project Overview
 This project is an Excel dashboard analyzing the Students Performance Dataset.
