@@ -6,9 +6,9 @@ The dashboard highlights insights on student performance across subjects, gender
 
 ## Files in this Repo
 
-~StudentsPerformanceDashboard.xlsx → The Excel dashboard file.
+~ StudentsPerformanceDashboard.xlsx → The Excel dashboard file.
 
-~dashboard_preview.png → A snapshot of the dashboard.
+~ dashboard_preview.png → A snapshot of the dashboard.
 
 ## Key Insights
 
@@ -24,7 +24,7 @@ The dashboard highlights insights on student performance across subjects, gender
 
 ~Dataset: Students Performance Dataset - Kaggle
 
-##*Author: Deborah Akanni*
+*Author: Deborah Akanni*
 
 *deborahakanni67@gmail.com*
 
