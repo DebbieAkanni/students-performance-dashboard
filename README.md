@@ -6,9 +6,9 @@ The dashboard highlights insights on student performance across subjects, gender
 
 ## Files in this Repo
 
-~ StudentsPerformanceDashboard.xlsx → The Excel dashboard file.
-
 ~ dashboard_preview.png → A snapshot of the dashboard.
+
+~StudentsPerformanceDashboard.xlsx → The Excel dashboard file.
 
 ## Key Insights
 
