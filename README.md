@@ -1,6 +1,6 @@
 # students-performance-dashboard
  
-## Project Title: Students Performance Dashboard
+## Project Overview
 This project is an Excel dashboard analyzing the Students Performance Dataset.
 The dashboard highlights insights on student performance across subjects, gender, and the effect of test preparation.
 
